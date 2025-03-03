@@ -1,6 +1,6 @@
 # Tauri + Vanilla
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+This project aims to create a desktop application replica of monkeytype.com which is a typing test website using tauri and vanilla javascript
 
 ## Recommended IDE Setup
 
